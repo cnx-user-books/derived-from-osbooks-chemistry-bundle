@@ -1,0 +1,108 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12113</md:content-id>
+    <md:title>NS 105 General Chemistry 2 SVC</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>a437fcc8-96d6-4afc-9bbb-2f6362429ac8</md:uuid>
+<md:slug>ns-105-general-chemistry-2-svc</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m53245"/>
+    <col:subcollection>
+      <md:title>Stoichiometry of Chemical Reactions</md:title>
+      <col:content>
+        <col:module document="m51024"/>
+        <col:module document="m51029"/>
+        <col:module document="m51012"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kinetics</md:title>
+      <col:content>
+        <col:module document="m51095"/>
+        <col:module document="m51097"/>
+        <col:module document="m51098"/>
+        <col:module document="m51099"/>
+        <col:module document="m51104"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Solutions and Colloids</md:title>
+      <col:content>
+        <col:module document="m51083"/>
+        <col:module document="m51085"/>
+        <col:module document="m51086"/>
+        <col:module document="m51087"/>
+        <col:module document="m51088"/>
+        <col:module document="m51091"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fundamental Equilibrium Concepts</md:title>
+      <col:content>
+        <col:module document="m51107"/>
+        <col:module document="m51108"/>
+        <col:module document="m51110"/>
+        <col:module document="m51109"/>
+        <col:module document="m51112"/>
+        <col:module document="m51127"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Acid-Base Equilibria</md:title>
+      <col:content>
+        <col:module document="m51113"/>
+        <col:module document="m51116"/>
+        <col:module document="m51117"/>
+        <col:module document="m51118"/>
+        <col:module document="m51120"/>
+        <col:module document="m51121"/>
+        <col:module document="m51123"/>
+        <col:module document="m51124"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electrochemistry</md:title>
+      <col:content>
+        <col:module document="m51146"/>
+        <col:module document="m51149"/>
+        <col:module document="m51150"/>
+        <col:module document="m51152"/>
+        <col:module document="m55220"/>
+        <col:module document="m55202"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electronic Structure and Periodic Properties of Elements Continued</md:title>
+      <col:content>
+        <col:module document="m51040"/>
+        <col:module document="m51041"/>
+        <col:module document="m51042"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Advanced Theories of Covalent Bonding</md:title>
+      <col:content>
+        <col:module document="m51054"/>
+        <col:module document="m51051"/>
+        <col:module document="m51052"/>
+        <col:module document="m51056"/>
+        <col:module document="m51057"/>
+        <col:module document="m51058"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m51209"/>
+    <col:module document="m51211"/>
+    <col:module document="m51213"/>
+    <col:module document="m51215"/>
+    <col:module document="m51217"/>
+    <col:module document="m51219"/>
+    <col:module document="m51221"/>
+    <col:module document="m51225"/>
+    <col:module document="m51226"/>
+    <col:module document="m51229"/>
+    <col:module document="m51231"/>
+    <col:module document="m51233"/>
+  </col:content>
+</col:collection>
