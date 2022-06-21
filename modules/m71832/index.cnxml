@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m71832</md:content-id>
   <md:title>Introduction</md:title>
-  <md:abstract><list id="list-00001">
+  <md:abstract><list>
 <item>Chemical Equilibria</item>
 <item>Equilibrium Constants</item>
 <item>Shifting Equilibria: Le Châtelier’s Principle</item>
@@ -30,7 +30,7 @@ In the explanation that follows, we will use the term <emphasis effect="italics"
 </para>
 <para id="fs-id1167296157132">Now we will consider the connection between the free energy change and the equilibrium constant. The fundamental relationship is:<newline/>
 <m:math><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>=</m:mo><m:mi>−R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>K</m:mi></m:math>—this can be for <m:math><m:msub><m:mrow><m:mi>K</m:mi></m:mrow><m:mrow><m:mi>c</m:mi></m:mrow></m:msub></m:math> or <m:math><m:msub><m:mrow><m:mi>K</m:mi></m:mrow><m:mrow><m:mi>p</m:mi></m:mrow></m:msub></m:math> (and we will see later, any equilibrium constant we encounter).</para><para id="fs-id1167296157399">We also know that the form of <emphasis effect="italics">K</emphasis> can be used in non-equilibrium conditions as the reaction quotient, <emphasis effect="italics">Q</emphasis>. The defining relationship here is
-<equation class="unnumbered" id="eip-id1169899962411"><m:math><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>=</m:mo><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>Q</m:mi></m:math></equation>
+<equation id="eip-id1169899962411"><m:math><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>=</m:mo><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>Q</m:mi></m:math></equation>
 Without the superscript, the value of ∆<emphasis effect="italics">G</emphasis> can be calculated for any set of concentrations.
 </para><para id="fs-id1167299731582">Note that since <emphasis effect="italics">Q</emphasis> is a mass-action reaction of productions/reactants, as a reaction proceeds from left to right, product concentrations increase as reactant concentrations decrease, until <emphasis effect="italics">Q = K</emphasis>, and at which time ∆<emphasis effect="italics">G</emphasis> becomes zero:<newline/>
 <m:math><m:mn>0</m:mn><m:mo>=</m:mo><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>K</m:mi></m:math>, a relationship that reduces to our defining connection between <emphasis effect="italics">Q</emphasis> and <emphasis effect="italics">K</emphasis>.</para><para id="fs-id1167299679770">Thus, we can see clearly that as a reaction moves toward equilibrium, the value of ∆<emphasis effect="italics">G</emphasis> goes to zero.</para>
@@ -71,5 +71,5 @@ Without the superscript, the value of ∆<emphasis effect="italics">G</emphasis>
 </table>
 Only in the last two cases is there a point at which the process swings from spontaneous to non-spontaneous (or the reverse); in these cases, the process must pass through equilibrium when the change occurs. The concept of the connection between the free energy change and the equilibrium constant is an important one that we will expand upon in future sections. The fact that the change in free energy for an equilibrium process is zero, and that displacement of a process from that zero point results in a drive to re-establish equilibrium is fundamental to understanding the behavior of chemical reactions and phase changes.
 </para>
- </content>
+</content>
 </document>

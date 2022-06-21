@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68748</md:content-id>
   <md:title>Introduction</md:title>
-  <md:abstract><list id="list-00001"><item>Gas Pressure</item>
+  <md:abstract><list><item>Gas Pressure</item>
 <item>Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law</item>
 <item>Stoichiometry of Gaseous Substances, Mixtures, and Reactions</item>
 <item>Effusion and Diffusion of Gases</item>
@@ -22,5 +22,5 @@
 <para id="fs-idm58981280">We are surrounded by an ocean of gas—the atmosphere—and many of the properties of gases are familiar to us from our daily activities. Heated gases expand, which can make a hot air balloon rise (<link target-id="CNX_Chem_09_00_HotAirBall"/>) or cause a blowout in a bicycle tire left in the sun on a hot day.</para>
 <para id="fs-idm145175104">Gases have played an important part in the development of chemistry. In the seventeenth and eighteenth centuries, many scientists investigated gas behavior, providing the first mathematical descriptions of the behavior of matter.</para>
 <para id="fs-idm154865680">In this chapter, we will examine the relationships between gas temperature, pressure, amount, and volume. We will study a simple theoretical model and use it to analyze the experimental behavior of gases. The results of these analyses will show us the limitations of the theory and how to improve on it.</para>
-   </content>
+</content>
 </document>

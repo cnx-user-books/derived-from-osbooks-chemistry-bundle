@@ -3,7 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68740</md:content-id>
   <md:title>Formal Charges and Resonance</md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001"><item>Compute formal charges for atoms in any Lewis structure</item>
+  <md:abstract>By the end of this section, you will be able to:
+<list><item>Compute formal charges for atoms in any Lewis structure</item>
 <item>Use formal charges to identify the most reasonable Lewis structure for a given molecule</item>
 <item>Explain the concept of resonance and draw Lewis structures representing resonance forms for a given molecule</item></list></md:abstract>
   <md:uuid>bdd8ac14-71e8-4a87-9cc7-361f0a3157c2</md:uuid>
@@ -13,9 +14,9 @@
 <para id="fs-idm49375088">In the previous section, we discussed how to write Lewis structures for molecules and polyatomic ions. As we have seen, however, in some cases, there is seemingly more than one valid structure for a molecule. We can use the concept of formal charges to help us predict the most appropriate Lewis structure when more than one is reasonable.</para>
 <section id="fs-idp11710128">
 <title>Calculating Formal Charge</title>
-<para id="fs-idm16217792">The <term id="term-00001">formal charge</term> of an atom in a molecule is the <emphasis effect="italics">hypothetical</emphasis> charge the atom would have if we could redistribute the electrons in the bonds evenly between the atoms. Another way of saying this is that formal charge results when we take the number of valence electrons of a neutral atom, subtract the nonbonding electrons, and then subtract the number of bonds connected to that atom in the Lewis structure.</para>
+<para id="fs-idm16217792">The <term>formal charge</term> of an atom in a molecule is the <emphasis effect="italics">hypothetical</emphasis> charge the atom would have if we could redistribute the electrons in the bonds evenly between the atoms. Another way of saying this is that formal charge results when we take the number of valence electrons of a neutral atom, subtract the nonbonding electrons, and then subtract the number of bonds connected to that atom in the Lewis structure.</para>
 <para id="fs-idp126842624">Thus, we calculate formal charge as follows:</para>
-<equation id="fs-idp90018832" class="unnumbered"><m:math><m:mrow><m:mtext>formal charge</m:mtext><m:mo>=</m:mo><m:mtext># valence shell electrons (free atom)</m:mtext><m:mo>−</m:mo><m:mtext># lone pair electrons</m:mtext><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext># bonding electrons</m:mtext></m:mrow></m:math>
+<equation id="fs-idp90018832"><m:math><m:mrow><m:mtext>formal charge</m:mtext><m:mo>=</m:mo><m:mtext># valence shell electrons (free atom)</m:mtext><m:mo>−</m:mo><m:mtext># lone pair electrons</m:mtext><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext># bonding electrons</m:mtext></m:mrow></m:math>
 </equation>
 <para id="fs-idp88204016">We can double-check formal charge calculations by determining the sum of the formal charges for the whole structure. The sum of the formal charges of all atoms in a molecule must be zero; the sum of the formal charges in an ion should equal the charge of the ion.</para>
 <para id="fs-idp15200480">We must remember that the formal charge calculated for an atom is not the <emphasis effect="italics">actual</emphasis> charge of the atom in the molecule. Formal charge is only a useful bookkeeping procedure; it does not indicate the presence of actual charges.</para>
@@ -71,7 +72,7 @@ Determine the formal charge for each atom in NCl<sub>3</sub>.</para>
 </section>
 <section id="fs-idp27335568">
 <title>Using Formal Charge to Predict Molecular Structure</title>
-<para id="fs-idp93581584">The arrangement of atoms in a molecule or ion is called its <term id="term-00002">molecular structure</term>. In many cases, following the steps for writing Lewis structures may lead to more than one possible molecular structure—different multiple bond and lone-pair electron placements or different arrangements of atoms, for instance. A few guidelines involving formal charge can be helpful in deciding which of the possible structures is most likely for a particular molecule or ion:</para>
+<para id="fs-idp93581584">The arrangement of atoms in a molecule or ion is called its <term>molecular structure</term>. In many cases, following the steps for writing Lewis structures may lead to more than one possible molecular structure—different multiple bond and lone-pair electron placements or different arrangements of atoms, for instance. A few guidelines involving formal charge can be helpful in deciding which of the possible structures is most likely for a particular molecule or ion:</para>
 <list id="fs-idp69636800" list-type="enumerated" number-style="arabic">
 <item>A molecular structure in which all formal charges are zero is preferable to one in which some formal charges are not zero.</item>
 <item>If the Lewis structure must have nonzero formal charges, the arrangement with the smallest nonzero formal charges is preferable.</item>
@@ -87,20 +88,23 @@ Determine the formal charge for each atom in NCl<sub>3</sub>.</para>
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Thiocyan_img.jpg"/>
 </media>
 <para id="fs-idp142093872">Note that the sum of the formal charges in each case is equal to the charge of the ion (–1). However, the first arrangement of atoms is preferred because it has the lowest number of atoms with nonzero formal charges (Guideline 2). Also, it places the least electronegative atom in the center, and the negative charge on the more electronegative element (Guideline 4).</para>
-<example id="fs-idp56478288"><para id="fs-idm17761552"><title>Using Formal Charge to Determine Molecular Structure</title>Nitrous oxide, N<sub>2</sub>O, commonly known as laughing gas, is used as an anesthetic in minor surgeries, such as the routine extraction of wisdom teeth. Which is the more likely structure for nitrous oxide?</para>
-<media id="fs-idp27289968" alt="Two Lewis structures are shown with the word “or” in between them. The left structure depicts a nitrogen atom with one lone pair of electrons triple bonded to a nitrogen that is single bonded to an oxygen with three lone pairs of electrons. The right structure shows a nitrogen atom with two lone pairs of electrons double bonded to an oxygen atom that is double bonded to a nitrogen atom with two lone pairs of electrons." class="scaled-down">
+<example id="fs-idp56478288">
+<para id="fs-idm17761552"><title>Using Formal Charge to Determine Molecular Structure</title>
+Nitrous oxide, N<sub>2</sub>O, commonly known as laughing gas, is used as an anesthetic in minor surgeries, such as the routine extraction of wisdom teeth. Which is the likely structure for nitrous oxide?</para>
+<media id="fs-idp27289968" alt="Two Lewis structures are shown with the word “or” in between them. The left structure depicts a nitrogen atom with two lone pairs of electrons double bonded to a nitrogen that is double bonded to an oxygen with two lone pairs of electrons. The right structure shows a nitrogen atom with two lone pairs of electrons double bonded to an oxygen atom that is double bonded to a nitrogen atom with two lone pairs of electrons." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_N2O_img.jpg"/>
 </media>
 <para id="fs-idp200124576"><title>Solution</title>
 Determining formal charge yields the following:</para>
-<media id="fs-idp30477296" alt="Two Lewis structures are shown with the word “or” in between them. The left structure depicts a nitrogen atom with one lone pair of electrons triple bonded to a nitrogen atom that is single bonded to an oxygen atom with three lone pairs of electrons. The numbers zero, positive one, and negative one are written below this structure. The right structure shows a nitrogen atom with two lone pairs of electrons double bonded to an oxygen atom that is double bonded to a nitrogen atom with two lone pairs of electrons. The numbers negative one, positive two, and negative one are written below this structure." class="scaled-down">
+<media id="fs-idp30477296" alt="Two Lewis structures are shown with the word “or” in between them. The left structure depicts a nitrogen atom with two lone pairs of electrons double bonded to a nitrogen atom that is double bonded to an oxygen atom with two lone pairs of electrons. The numbers negative one, positive one, and zero are written above this structure. The right structure shows a nitrogen atom with two lone pairs of electrons double bonded to an oxygen atom that is double bonded to a nitrogen atom with two lone pairs of electrons. The numbers negative one, positive two, and negative one are written above this structure." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_N2Ofc_img.jpg"/>
 </media>
 <para id="fs-idp52242480">The structure with a terminal oxygen atom best satisfies the criteria for the most stable distribution of formal charge:</para>
-<media id="fs-idp61736672" alt="A Lewis structure is shown. A nitrogen atom with one lone pair of electrons is triple bonded to a nitrogen atom that is single bonded to an oxygen atom with three lone pairs of electrons." class="scaled-down">
+<media id="fs-idp61736672" alt="A Lewis structure is shown. A nitrogen atom with two lone pairs of electrons is double bonded to a nitrogen atom that is double bonded to an oxygen atom with two lone pairs of electrons." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NNO_img.jpg"/>
 </media>
-<para id="fs-idp29868224">The number of atoms with formal charges are minimized (Guideline 2), there is no formal charge with a magnitude greater than one (Guideline 2), the negative formal charge is on the more electronegative element (Guideline 4), and the less electronegative atom is in the center position.</para><para id="fs-idp67397856"><title>Check Your Learning</title>
+<para id="fs-idp29868224">The number of atoms with formal charges are minimized (Guideline 2), and there is no formal charge larger than one (Guideline 2). This is again consistent with the preference for having the less electronegative atom in the central position.</para>
+<para id="fs-idp67397856"><title>Check Your Learning</title>
 Which is the most likely molecular structure for the nitrite <m:math><m:mrow><m:mo>(</m:mo><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo>)</m:mo></m:mrow></m:math> ion?</para>
 <media id="fs-idp250861152" alt="Two Lewis structures are shown with the word “or” written between them. The left structure shows a nitrogen atom with two lone pairs of electrons double bonded to an oxygen atom with one lone pair of electrons that is single bonded to an oxygen atom with three lone pairs of electrons. Brackets surround this structure and there is a superscripted negative sign. The right structure shows an oxygen atom with two lone pairs of electrons double bonded to a nitrogen atom with one lone pair of electrons that is single bonded to an oxygen with three lone pairs of electrons. Brackets surround this structure and there is a superscripted negative sign." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NO2ion_img.jpg"/>
@@ -108,13 +112,14 @@ Which is the most likely molecular structure for the nitrite <m:math><m:mrow><m:
 <note id="fs-idp94183792"><title>Answer:</title>
 <para id="fs-idm26159840">ONO<sup>–</sup></para>
 </note>
-</example></section>
+</example>
+</section>
 <section id="fs-idp26392016"><title>Resonance</title><para id="fs-idp81027344">Notice that the more likely structure for the nitrite anion in <link target-id="fs-idp56478288"/> may actually be drawn in two different ways, distinguished by the locations of the N-O and N=O bonds:</para>
 <media id="fs-idp25860608" alt="Two Lewis structures are shown. The left structure shows an oxygen atom with three lone pairs of electrons single bonded to a nitrogen atom with one lone pair of electrons that is double bonded to an oxygen with two lone pairs of electrons. Brackets surround this structure, and there is a superscripted negative sign. The right structure shows an oxygen atom with two lone pairs of electrons double bonded to a nitrogen atom with one lone pair of electrons that is single bonded to an oxygen atom with three lone pairs of electrons. Brackets surround this structure, and there is a superscripted negative sign." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NO2res_img.jpg"/>
 </media>
 <para id="fs-idm7645504">If nitrite ions do indeed contain a single and a double bond, we would expect for the two bond lengths to be different. A double bond between two atoms is shorter (and stronger) than a single bond between the same two atoms. Experiments show, however, that both N–O bonds in <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> have the same strength and length, and are identical in all other properties.</para>
-<para id="fs-idp203952864">It is not possible to write a single Lewis structure for <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> in which nitrogen has an octet and both bonds are equivalent. Instead, we use the concept of <term id="term-00003">resonance</term>: if two or more Lewis structures with the same arrangement of atoms can be written for a molecule or ion, the actual distribution of electrons is an <emphasis effect="italics">average</emphasis> of that shown by the various Lewis structures. The actual distribution of electrons in each of the nitrogen-oxygen bonds in <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> is the average of a double bond and a single bond. We call the individual Lewis structures <term id="term-00004">resonance forms</term>. The actual electronic structure of the molecule (the average of the resonance forms) is called a <term id="term-00005">resonance hybrid</term> of the individual resonance forms. A double-headed arrow between Lewis structures indicates that they are resonance forms.</para>
+<para id="fs-idp203952864">It is not possible to write a single Lewis structure for <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> in which nitrogen has an octet and both bonds are equivalent. Instead, we use the concept of <term>resonance</term>: if two or more Lewis structures with the same arrangement of atoms can be written for a molecule or ion, the actual distribution of electrons is an <emphasis effect="italics">average</emphasis> of that shown by the various Lewis structures. The actual distribution of electrons in each of the nitrogen-oxygen bonds in <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> is the average of a double bond and a single bond. We call the individual Lewis structures <term>resonance forms</term>. The actual electronic structure of the molecule (the average of the resonance forms) is called a <term>resonance hybrid</term> of the individual resonance forms. A double-headed arrow between Lewis structures indicates that they are resonance forms.</para>
 <media id="fs-idp40211808" alt="Two Lewis structures are shown with a double sided arrow between them. The left structure shows an oxygen atom with three lone pairs of electrons single bonded to a nitrogen atom with one lone pair of electrons that is double bonded to an oxygen with two lone pairs of electrons. Brackets surround this structure, and there is a superscripted negative sign. The right structure shows an oxygen atom with two lone pairs of electrons double bonded to a nitrogen atom with one lone pair of electrons that is single bonded to an oxygen atom with three lone pairs of electrons. Brackets surround this structure, and there is a superscripted negative sign." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NO2resarr_img.jpg"/>
 </media>
@@ -125,7 +130,8 @@ Which is the most likely molecular structure for the nitrite <m:math><m:mrow><m:
 </media>
 <para id="fs-idp6151664">One oxygen atom must have a double bond to carbon to complete the octet on the central atom. All oxygen atoms, however, are equivalent, and the double bond could form from any one of the three atoms. This gives rise to three resonance forms of the carbonate ion. Because we can write three identical resonance structures, we know that the actual arrangement of electrons in the carbonate ion is the average of the three structures. Again, experiments show that all three C–O bonds are exactly the same.</para>
 <note id="fs-idp77544496" class="chemistry link-to-learning">
-<para id="fs-idp64654736">Use this <link url="http://openstax.org/l/16LewisMake">online quiz</link> to practice your skills in drawing resonance structures and estimating formal charges.</para></note>
+<para id="fs-idp64654736">The online <link url="http://openstax.org/l/16LewisMake">Lewis Structure Make</link> includes many examples to practice drawing resonance structures.</para>
+</note>
 </section><section id="fs-idm30786384" class="summary">
 <title>Key Concepts and Summary</title>
 <para id="fs-idp91470432">In a Lewis structure, formal charges can be assigned to each atom by treating each bond as if one-half of the electrons are assigned to each atom. These hypothetical formal charges are a guide to determining the most appropriate Lewis structure. A structure in which the formal charges are as close to zero as possible is preferred. Resonance occurs in cases where two or more Lewis structures with identical arrangements of atoms but different distributions of electrons can be written. The actual distribution of electrons (the resonance hybrid) is an average of the distribution indicated by the individual Lewis structures (the resonance forms).</para>
@@ -135,7 +141,7 @@ Which is the most likely molecular structure for the nitrite <m:math><m:mrow><m:
 <table id="key-equations-table" class="unnumbered unstyled" summary="key equations table"><label/>
 <tgroup cols="1"><colspec colnum="1" colname="c1"/>
 <tbody>
-<row><entry><m:math><m:mrow><m:mtext>formal charge</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext># valence shell electrons (free atom)</m:mtext><m:mspace width="0.1em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mtext># lone pair electrons</m:mtext><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.3em"/><m:mtext># bonding electrons</m:mtext></m:mrow></m:math></entry>
+<row><entry><m:math><m:mrow><m:mtext>formal charge</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext># valence shell electrons (free atom)</m:mtext><m:mspace width="0.1em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mtext># one pair electrons</m:mtext><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.3em"/><m:mtext># bonding electrons</m:mtext></m:mrow></m:math></entry>
 </row>
 </tbody></tgroup></table>
 </section>
@@ -373,7 +379,7 @@ CO has the strongest carbon-oxygen bond because there is a triple bond joining C
 </media></para>
 </solution>
 </exercise>
-</section>   </content>
+</section></content>
 <glossary>
 <definition id="fs-idp10384768">
 <term>formal charge</term>

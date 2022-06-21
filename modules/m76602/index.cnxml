@@ -1,0 +1,69 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Kinetic-Molecular Theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m76602</md:content-id>
+  <md:title>Kinetic-Molecular Theory</md:title>
+  <md:abstract><list><item>State the postulates of the kinetic-molecular theory</item>
+<item>Use this theory’s postulates to explain the gas laws</item></list></md:abstract>
+  <md:uuid>4f90b79e-e22a-45fc-86b5-050bcfd13b8f</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm127996416">The gas laws that we have seen to this point, as well as the ideal gas equation, are empirical, that is, they have been derived from experimental observations. The mathematical forms of these laws closely describe the macroscopic behavior of most gases at pressures less than about 1 or 2 atm. Although the gas laws describe relationships that have been verified by many experiments, they do not tell us why gases follow these relationships.</para>
+<para id="fs-idm165041184">The <term>kinetic molecular theory</term> (KMT) is a simple microscopic model that effectively explains the gas laws described in previous modules of this chapter. This theory is based on the following five postulates described here. (Note: The term “molecule” will be used to refer to the individual chemical species that compose the gas, although some gases are composed of atomic species, for example, the noble gases.)</para>
+<list id="fs-idm178411376" list-type="enumerated" number-style="arabic">
+<item>Gases are composed of molecules that are in continuous motion, travelling in straight lines and changing direction only when they collide with other molecules or with the walls of a container.</item>
+<item>The molecules composing the gas are negligibly small compared to the distances between them.</item>
+<item>The pressure exerted by a gas in a container results from collisions between the gas molecules and the container walls.</item>
+<item>Gas molecules exert no attractive or repulsive forces on each other or the container walls; therefore, their collisions are <emphasis effect="italics">elastic</emphasis> (do not involve a loss of energy).</item>
+<item>The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.</item>
+</list>
+<para id="fs-idm128213904">The test of the KMT and its postulates is its ability to explain and describe the behavior of a gas. The various gas laws can be derived from the assumptions of the KMT, which have led chemists to believe that the assumptions of the theory accurately represent the properties of gas molecules. We will first look at the individual gas laws (Boyle’s, Charles’s, Amontons’s, Avogadro’s, and Dalton’s laws) conceptually to see how the KMT explains them. Then, we will more carefully consider the relationships between molecular masses, speeds, and kinetic energies with temperature, and explain Graham’s law.</para>
+<section id="fs-idm94057008">
+<title>The Kinetic-Molecular Theory Explains the Behavior of Gases, Part I</title>
+<para id="fs-idm188928480">Recalling that gas pressure is exerted by rapidly moving gas molecules and depends directly on the number of molecules hitting a unit area of the wall per unit of time, we see that the KMT conceptually explains the behavior of a gas as follows:</para>
+<list id="fs-idm221875200" list-type="bulleted" bullet-style="bullet"><item><emphasis effect="italics">Amontons’s law.</emphasis> If the temperature is increased, the average speed and kinetic energy of the gas molecules increase. If the volume is held constant, the increased speed of the gas molecules results in more frequent and more forceful collisions with the walls of the container, therefore increasing the pressure (<link target-id="CNX_Chem_09_04_KMT2"/>).</item>
+<item><emphasis effect="italics">Charles’s law.</emphasis> If the temperature of a gas is increased, a constant pressure may be maintained only if the volume occupied by the gas increases. This will result in greater average distances traveled by the molecules to reach the container walls, as well as increased wall surface area. These conditions will decrease the both the frequency of molecule-wall collisions and the number of collisions per unit area, the combined effects of which balance the effect of increased collision forces due to the greater kinetic energy at the higher temperature.</item>
+<item><emphasis effect="italics">Boyle’s law.</emphasis> If the gas volume is decreased, the container wall area decreases and the molecule-wall collision frequency increases, both of which increase the pressure exerted by the gas (<link target-id="CNX_Chem_09_04_KMT2"/>).</item>
+<item><emphasis effect="italics">Avogadro’s law.</emphasis> At constant pressure and temperature, the frequency and force of molecule-wall collisions are constant. Under such conditions, increasing the number of gaseous molecules will require a proportional increase in the container volume in order to yield a decrease in the number of collisions per unit area to compensate for the increased frequency of collisions (<link target-id="CNX_Chem_09_04_KMT2"/>).</item>
+<item><emphasis effect="italics">Dalton’s Law.</emphasis> Because of the large distances between them, the molecules of one gas in a mixture bombard the container walls with the same frequency whether other gases are present or not, and the total pressure of a gas mixture equals the sum of the (partial) pressures of the individual gases.</item>
+</list><figure id="CNX_Chem_09_04_KMT2"><media id="fs-idm82315616" alt="This figure shows 3 pairs of pistons and cylinders. In a, which is labeled, “Charles’s Law,” the piston is positioned for the first cylinder so that just over half of the available volume contains 6 purple spheres with trails behind them. The trails indicate movement. Orange dashes extend from the interior surface of the cylinder where the spheres have collided. This cylinder is labeled, “Baseline.” In the second cylinder, the piston is in the same position, and the label, “Heat” is indicated in red capitalized text. Four red arrows with wavy stems are pointing upward to the base of the cylinder. The six purple spheres have longer trails behind them and the number of orange dashes indicating points of collision with the container walls has increased. A rectangle beneath the diagram states, “Temperature increased, Volume constant equals Increased pressure.” In b, which is labeled, “Boyle’s Law,” the first, baseline cylinder shown is identical to the first cylinder in a. In the second cylinder, the piston has been moved, decreasing the volume available to the 6 purple spheres to half of the initial volume. The six purple spheres have longer trails behind them and the number of orange dashes indicating points of collision with the container walls has increased. This second cylinder is labeled, “Volume decreased.” A rectangle beneath the diagram states, “Volume decreased, Wall area decreased equals Increased pressure.” In c, which is labeled “Avogadro’s Law,” the first, baseline cylinder shown is identical to the first cylinder in a. In the second cylinder, the number of purple spheres has changed from 6 to 12 and volume has doubled. This second cylinder is labeled “Increased gas.” A rectangle beneath the diagram states, “At constant pressure, More gas molecules added equals Increased volume.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_04_KMT2.jpg"/>
+</media>
+
+<caption>(a) When gas temperature increases, gas pressure increases due to increased force and frequency of molecular collisions. (b) When volume decreases, gas pressure increases due to increased frequency of molecular collisions. (c) When the amount of gas increases at a constant pressure, volume increases to yield a constant number of collisions per unit wall area per unit time.</caption></figure></section>
+<section id="fs-idp25934352" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp11491120">The kinetic molecular theory is a simple but very effective model that effectively explains ideal gas behavior. The theory assumes that gases consist of widely separated molecules of negligible volume that are in constant motion, colliding elastically with one another and the walls of their container with average velocities determined by their absolute temperatures. The individual molecules of a gas exhibit a range of velocities, the distribution of these velocities being dependent on the temperature of the gas and the mass of its molecules.</para>
+</section>
+<section id="fs-idm162733696" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idm159823744">
+<problem id="fs-idm150949648">
+<para id="fs-idm212848544">Using the postulates of the kinetic molecular theory, explain why a gas uniformly fills a container of any shape.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm178556768">
+<problem id="fs-idm146263632">
+<para id="fs-idm196791600">Can the speed of a given molecule in a gas double at constant temperature? Explain your answer.</para>
+</problem>
+<solution id="fs-idm99833504">
+<para id="fs-idm162271264">Yes. At any given instant, there are a range of values of molecular speeds in a sample of gas. Any single molecule can speed up or slow down as it collides with other molecules. The average velocity of all the molecules is constant at constant temperature.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm213877296">
+<problem id="fs-idm204603328">
+<para id="fs-idm59208640">Describe what happens to the average kinetic energy of ideal gas molecules when the conditions are changed as follows:</para>
+<para id="fs-idm175667504">(a) The pressure of the gas is increased by reducing the volume at constant temperature.</para>
+<para id="fs-idm148561248">(b) The pressure of the gas is increased by increasing the temperature at constant volume.</para>
+<para id="fs-idp12415536">(c) The average velocity of the molecules is increased by a factor of 2.</para>
+</problem>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm198763536"><term>kinetic molecular theory</term><meaning id="fs-idm88108032">theory based on simple principles and assumptions that effectively explains ideal gas behavior</meaning></definition>
+<definition id="fs-idm271276336"><term>root mean square velocity (<emphasis effect="italics">u</emphasis><sub>rms</sub>)</term><meaning id="fs-idm216807936">measure of average velocity for a group of particles calculated as the square root of the average squared velocity</meaning>
+</definition>
+</glossary>
+</document>
