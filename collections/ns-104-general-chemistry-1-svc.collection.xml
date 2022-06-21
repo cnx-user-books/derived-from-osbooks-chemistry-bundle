@@ -1,0 +1,127 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12050</md:content-id>
+    <md:title>NS 104 General Chemistry 1 SVC</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>21b4cb4c-340c-426b-9e66-423441e3e08f</md:uuid>
+<md:slug>ns-104-general-chemistry-1-svc</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m53245"/>
+    <col:subcollection>
+      <md:title>Essential Ideas</md:title>
+      <col:content>
+        <col:module document="m50979"/>
+        <col:module document="m62460"/>
+        <col:module document="m62485"/>
+        <col:module document="m62486"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Atoms, Molecules, and Ions</md:title>
+      <col:content>
+        <col:module document="m50997"/>
+        <col:module document="m62463"/>
+        <col:module document="m62467"/>
+        <col:module document="m62454"/>
+        <col:module document="m62458"/>
+        <col:module document="m62492"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Nuclear Chemistry</md:title>
+      <col:content>
+        <col:module document="m51195"/>
+        <col:module document="m62481"/>
+        <col:module document="m62480"/>
+        <col:module document="m62488"/>
+        <col:module document="m62494"/>
+        <col:module document="m62495"/>
+        <col:module document="m62456"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electronic Structure Fundamentals</md:title>
+      <col:content>
+        <col:module document="m51036"/>
+        <col:module document="m62464"/>
+        <col:module document="m62490"/>
+        <col:module document="m62477"/>
+        <col:module document="m62459"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Composition of Substances and Solutions</md:title>
+      <col:content>
+        <col:module document="m51010"/>
+        <col:module document="m62475"/>
+        <col:module document="m62474"/>
+        <col:module document="m62473"/>
+        <col:module document="m62468"/>
+        <col:module document="m62476"/>
+        <col:module document="m62482"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chemical Reactions</md:title>
+      <col:content>
+        <col:module document="m51020"/>
+        <col:module document="m62496"/>
+        <col:module document="m62461"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Thermochemistry</md:title>
+      <col:content>
+        <col:module document="m51032"/>
+        <col:module document="m62465"/>
+        <col:module document="m62457"/>
+        <col:module document="m62466"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chemical Bonding and Molecular Geometry</md:title>
+      <col:content>
+        <col:module document="m51046"/>
+        <col:module document="m62471"/>
+        <col:module document="m62462"/>
+        <col:module document="m62472"/>
+        <col:module document="m62478"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Gases</md:title>
+      <col:content>
+        <col:module document="m51060"/>
+        <col:module document="m62469"/>
+        <col:module document="m62489"/>
+        <col:module document="m62491"/>
+        <col:module document="m62479"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Liquids and Solids</md:title>
+      <col:content>
+        <col:module document="m51073"/>
+        <col:module document="m62470"/>
+        <col:module document="m62487"/>
+        <col:module document="m62484"/>
+        <col:module document="m62483"/>
+        <col:module document="m62493"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m51209"/>
+    <col:module document="m51211"/>
+    <col:module document="m51213"/>
+    <col:module document="m51215"/>
+    <col:module document="m51217"/>
+    <col:module document="m51219"/>
+    <col:module document="m51221"/>
+    <col:module document="m51225"/>
+    <col:module document="m51226"/>
+    <col:module document="m51229"/>
+    <col:module document="m51231"/>
+    <col:module document="m51233"/>
+  </col:content>
+</col:collection>
