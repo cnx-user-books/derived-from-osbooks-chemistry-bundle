@@ -1,0 +1,102 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12103</md:content-id>
+    <md:title>Introduction to Chemistry</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>cb09f094-9780-4a8f-a6ba-59a236ef5728</md:uuid>
+<md:slug>introduction-to-chemistry</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Matter and Measurement</md:title>
+      <col:content>
+        <col:module document="m50979"/>
+        <col:module document="m50984"/>
+        <col:module document="m50986"/>
+        <col:module document="m50988"/>
+        <col:module document="m50989"/>
+        <col:module document="m50993"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Atoms, Molecules, and Ions</md:title>
+      <col:content>
+        <col:module document="m50997"/>
+        <col:module document="m50999"/>
+        <col:module document="m51000"/>
+        <col:module document="m51001"/>
+        <col:module document="m51002"/>
+        <col:module document="m51003"/>
+        <col:module document="m51005"/>
+        <col:module document="m51007"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chemical Bonding</md:title>
+      <col:content>
+        <col:module document="m51046"/>
+        <col:module document="m51047"/>
+        <col:module document="m51048"/>
+        <col:module document="m51049"/>
+        <col:module document="m51051"/>
+        <col:module document="m51053"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Energy and Electrons</md:title>
+      <col:content>
+        <col:module document="m51032"/>
+        <col:module document="m51033"/>
+        <col:module document="m51036"/>
+        <col:module document="m51037"/>
+        <col:module document="m51039"/>
+        <col:module document="m51042"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chemical Reactions</md:title>
+      <col:content>
+        <col:module document="m51020"/>
+        <col:module document="m51021"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Gases</md:title>
+      <col:content>
+        <col:module document="m51060"/>
+        <col:module document="m51061"/>
+        <col:module document="m51068"/>
+        <col:module document="m51072"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Liquids and Solids</md:title>
+      <col:content>
+        <col:module document="m51073"/>
+        <col:module document="m51077"/>
+        <col:module document="m51078"/>
+        <col:module document="m51080"/>
+        <col:module document="m51081"/>
+        <col:module document="m51082"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Solutions</md:title>
+      <col:content>
+        <col:module document="m51083"/>
+        <col:module document="m51085"/>
+        <col:module document="m51086"/>
+        <col:module document="m51087"/>
+        <col:module document="m51088"/>
+        <col:module document="m51091"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m51209"/>
+    <col:module document="m51211"/>
+    <col:module document="m51213"/>
+    <col:module document="m51215"/>
+    <col:module document="m51217"/>
+    <col:module document="m51219"/>
+  </col:content>
+</col:collection>
