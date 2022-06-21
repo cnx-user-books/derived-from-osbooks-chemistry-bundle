@@ -1,0 +1,194 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Covalent Bonding (Edited Version)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62511</md:content-id>
+  <md:title>Covalent Bonding (Edited Version)</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list><item>Describe the formation of covalent bonds</item>
+<item>Define electronegativity and assess the polarity of covalent bonds</item></list></md:abstract>
+  <md:uuid>18ea9552-bae4-4d94-bf60-a700aeeb9958</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp18344448">In ionic compounds, electrons are transferred between atoms of different elements to form ions. But this is not the only way that compounds can be formed. Atoms can also make chemical bonds by sharing electrons equally between each other. Such bonds are called <term>covalent bonds</term>. Covalent bonds are formed between two atoms when both have similar tendencies to attract electrons to themselves (i.e., when both atoms have identical or fairly similar ionization energies and electron affinities). For example, two hydrogen atoms bond covalently to form an H<sub>2</sub> molecule; each hydrogen atom in the H<sub>2</sub> molecule has two electrons stabilizing it, giving each atom the same number of valence electrons as the noble gas He.</para>
+<para id="fs-idm46739904">Compounds that contain covalent bonds exhibit different physical properties than ionic compounds. Because the attraction between molecules, which are electrically neutral, is weaker than that between electrically charged ions, covalent compounds generally have much lower melting and boiling points than ionic compounds. In fact, many covalent compounds are liquids or gases at room temperature, and, in their solid states, they are typically much softer than ionic solids. Furthermore, whereas ionic compounds are good conductors of electricity when dissolved in water, most covalent compounds are insoluble in water; since they are electrically neutral, they are poor conductors of electricity in any state.</para>
+<section id="fs-idm52120656">
+<title>Formation of Covalent Bonds</title>
+<para id="fs-idp19293424">Nonmetal atoms frequently form covalent bonds with other nonmetal atoms. For example, the hydrogen molecule, H<sub>2</sub>, contains a covalent bond between its two hydrogen atoms. <link target-id="CNX_Chem_07_02_Morse"/> illustrates why this bond is formed. Starting on the far right, we have two separate hydrogen atoms with a particular potential energy, indicated by the red line. Along the <emphasis effect="italics">x</emphasis>-axis is the distance between the two atoms. As the two atoms approach each other (moving left along the <emphasis effect="italics">x</emphasis>-axis), their valence orbitals (1<emphasis effect="italics">s</emphasis>) begin to overlap. The single electrons on each hydrogen atom then interact with both atomic nuclei, occupying the space around both atoms. The strong attraction of each shared electron to both nuclei stabilizes the system, and the potential energy decreases as the bond distance decreases. If the atoms continue to approach each other, the positive charges in the two nuclei begin to repel each other, and the potential energy increases. The <term>bond length</term> is determined by the distance at which the lowest potential energy is achieved.</para>
+<figure id="CNX_Chem_07_02_Morse">
+<media id="fs-idp205967824" alt="A graph is shown with the x-axis labeled, “Internuclear distance ( p m )” while the y-axis is labeled, “Energy ( J ).” One value, “0,” is labeled midway up the y-axis and two values: “0” at the far left and “0.74” to the left, are labeled on the x-axis. The point “0.74” is labeled, “H bond H distance.” A line is graphed that begins near the top of the y-axis and to the far left on the x-axis and drops steeply to a point labeled, “negative 7.24 times 10 superscript negative 19 J” on the y-axis and 0.74 on the x-axis. This low point on the graph corresponds to a drawing of two spheres that overlap considerably. The line then rises to zero on the y-axis and levels out. The point where it almost reaches zero corresponds to two spheres that overlap slightly. The line at zero on the y-axis corresponds to two spheres that are far from one another.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_02_Morse.jpg"/>
+</media>
+<caption>The potential energy of two separate hydrogen atoms (right) decreases as they approach each other, and the single electrons on each atom are shared to form a covalent bond. The bond length is the internuclear distance at which the lowest potential energy is achieved.</caption>
+</figure>
+<para id="fs-idm53665712">It is essential to remember that energy must be added to break chemical bonds (an endothermic process), whereas forming chemical bonds releases energy (an exothermic process). In the case of H<sub>2</sub>, the covalent bond is very strong; a large amount of energy, 436 kJ, must be added to break the bonds in one mole of hydrogen molecules and cause the atoms to separate:</para>
+<equation id="fs-idp80127584"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>436</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm100273632">Conversely, the same amount of energy is released when one mole of H<sub>2</sub> molecules forms from two moles of H atoms:</para>
+<equation id="fs-idp43869440"><m:math><m:mrow><m:mtext>2H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−436</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+</section>
+
+
+<section id="fs-idm4705056" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp86079584">Covalent bonds form when electrons are shared between atoms and are attracted by the nuclei of both atoms. In pure covalent bonds, the electrons are shared equally. In polar covalent bonds, the electrons are shared unequally, as one atom exerts a stronger force of attraction on the electrons than the other. The ability of an atom to attract a pair of electrons in a chemical bond is called its electronegativity. The difference in electronegativity between two atoms determines how polar a bond will be. In a diatomic molecule with two identical atoms, there is no difference in electronegativity, so the bond is nonpolar or pure covalent. When the electronegativity difference is very large, as is the case between metals and nonmetals, the bonding is characterized as ionic.</para>
+</section>
+
+<section id="fs-idp134316112" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp49074848">
+<problem id="fs-idp25067072">
+<para id="fs-idm2824400">Why is it incorrect to speak of a molecule of solid NaCl?</para>
+</problem>
+<solution id="fs-idp52410800">
+<para id="fs-idm21247904">NaCl consists of discrete ions arranged in a crystal lattice, not covalently bonded molecules.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm13014880">
+<problem id="fs-idp176713136">
+<para id="fs-idp93923328">What information can you use to predict whether a bond between two atoms is covalent or ionic?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp119456432">
+<problem id="fs-idm54010016">
+<para id="fs-idm10626064">Predict which of the following compounds are ionic and which are covalent, based on the location of their constituent atoms in the periodic table:</para>
+<para id="fs-idp137731248">(a) Cl<sub>2</sub>CO</para>
+<para id="fs-idp34043968">(b) MnO</para>
+<para id="fs-idp145928416">(c) NCl<sub>3</sub></para>
+<para id="fs-idp62117984">(d) CoBr<sub>2</sub></para>
+<para id="fs-idp15975072">(e) K<sub>2</sub>S</para>
+<para id="fs-idp135856480">(f) CO</para>
+<para id="fs-idp70623968">(g) CaF<sub>2</sub></para>
+<para id="fs-idp162650528">(h) HI</para>
+<para id="fs-idm25413152">(i) CaO</para>
+<para id="fs-idp57507392">(j) IBr</para>
+<para id="fs-idp58466608">(k) CO<sub>2</sub></para>
+</problem>
+<solution id="fs-idm20669152">
+<para id="fs-idm92647632">ionic: (b), (d), (e), (g), and (i); covalent: (a), (c), (f), (h), (j), and (k)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp18335616">
+<problem id="fs-idm15821712">
+<para id="fs-idm24945328">Explain the difference between a nonpolar covalent bond, a polar covalent bond, and an ionic bond.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm121789856">
+<problem id="fs-idp148786880">
+<para id="fs-idp191889824">From its position in the periodic table, determine which atom in each pair is more electronegative:</para>
+<para id="fs-idm12153568">(a) Br or Cl</para>
+<para id="fs-idp91653072">(b) N or O</para>
+<para id="fs-idp6938432">(c) S or O</para>
+<para id="fs-idp74508640">(d) P or S</para>
+<para id="fs-idp165919328">(e) Si or N</para>
+<para id="fs-idp44669424">(f) Ba or P</para>
+<para id="fs-idp65630688">(g) N or K</para>
+</problem>
+<solution id="fs-idp111891008">
+<para id="fs-idm10691120">(a) Cl; (b) O; (c) O; (d) S; (e) N; (f) P; (g) N</para>
+</solution>
+</exercise>
+<exercise id="fs-idp43172032">
+<problem id="fs-idm1164224">
+<para id="fs-idm4843136">From its position in the periodic table, determine which atom in each pair is more electronegative:</para>
+<para id="fs-idm54141760">(a) N or P</para>
+<para id="fs-idp65897056">(b) N or Ge</para>
+<para id="fs-idp65832208">(c) S or F</para>
+<para id="fs-idp170735744">(d) Cl or S</para>
+<para id="fs-idm51982672">(e) H or C</para>
+<para id="fs-idp225578400">(f) Se or P</para>
+<para id="fs-idp105804256">(g) C or Si</para>
+</problem>
+</exercise>
+<exercise id="fs-idm28148800">
+<problem id="fs-idm88744080">
+<para id="fs-idp27652976">From their positions in the periodic table, arrange the atoms in each of the following series in order of increasing electronegativity:</para>
+<para id="fs-idp63429168">(a) C, F, H, N, O</para>
+<para id="fs-idp19767520">(b) Br, Cl, F, H, I</para>
+<para id="fs-idp256954784">(c) F, H, O, P, S</para>
+<para id="fs-idp288482688">(d) Al, H, Na, O, P</para>
+<para id="fs-idp249303488">(e) Ba, H, N, O, As</para>
+</problem>
+<solution id="fs-idp17723600">
+<para id="fs-idm60378112">(a) H, C, N, O, F; (b) H, I, Br, Cl, F; (c) H, P, S, O, F; (d) Na, Al, H, P, O; (e) Ba, H, As, N, O</para>
+</solution>
+</exercise>
+<exercise id="fs-idp49532528">
+<problem id="fs-idp19087392">
+<para id="fs-idm33320240">From their positions in the periodic table, arrange the atoms in each of the following series in order of increasing electronegativity:</para>
+<para id="fs-idp291050752">(a) As, H, N, P, Sb</para>
+<para id="fs-idm10196928">(b) Cl, H, P, S, Si</para>
+<para id="fs-idp92022624">(c) Br, Cl, Ge, H, Sr</para>
+<para id="fs-idp48302032">(d) Ca, H, K, N, Si</para>
+<para id="fs-idp251836720">(e) Cl, Cs, Ge, H, Sr</para>
+</problem>
+</exercise>
+<exercise id="fs-idp31566784">
+<problem id="fs-idp186425376">
+<para id="fs-idp65374912">Which atoms can bond to sulfur so as to produce a positive partial charge on the sulfur atom?</para>
+</problem>
+<solution id="fs-idp77775472">
+<para id="fs-idm121823728">N, O, F, and Cl</para>
+</solution>
+</exercise>
+<exercise id="fs-idp9464672">
+<problem id="fs-idp10397696">
+<para id="fs-idp36762400">Which is the most polar bond?</para>
+<para id="fs-idm10175808">(a) C–C</para>
+<para id="fs-idp66031184">(b) C–H</para>
+<para id="fs-idp291761760">(c) N–H</para>
+<para id="fs-idp167633952">(d) O–H</para>
+<para id="fs-idp176038448">(e) Se–H</para>
+</problem>
+</exercise>
+<exercise id="fs-idp173506592">
+<problem id="fs-idm53807920">
+<para id="fs-idm79569728">Identify the more polar bond in each of the following pairs of bonds:</para>
+<para id="fs-idp20525952">(a) HF or HCl</para>
+<para id="fs-idp84064688">(b) NO or CO</para>
+<para id="fs-idp64282448">(c) SH or OH</para>
+<para id="fs-idp65680032">(d) PCl or SCl</para>
+<para id="fs-idp183486032">(e) CH or NH</para>
+<para id="fs-idp254054736">(f) SO or PO</para>
+<para id="fs-idp58442352">(g) CN or NN</para>
+</problem>
+<solution id="fs-idm12999776">
+<para id="fs-idm3310160">(a) HF; (b) CO; (c) OH; (d) PCl; (e) NH; (f) PO; (g) CN</para>
+</solution>
+</exercise>
+<exercise id="fs-idp51035456">
+<problem id="fs-idp214160">
+<para id="fs-idp43931056">Which of the following molecules or ions contain polar bonds?</para>
+<para id="fs-idp64798368">(a) O<sub>3</sub></para>
+<para id="fs-idp73172304">(b) S<sub>8</sub></para>
+<para id="fs-idp88939568">(c) <m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp4309200">(d) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp253740944">(e) CO<sub>2</sub></para>
+<para id="fs-idp128497056">(f) H<sub>2</sub>S</para>
+<para id="fs-idp46941312">(g) <m:math><m:mrow><m:msub><m:mtext>BH</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm4648560">
+<term>bond length</term>
+<meaning id="fs-idp81401104">distance between the nuclei of two bonded atoms at which the lowest potential energy is achieved</meaning>
+</definition>
+<definition id="fs-idm100141920">
+<term>covalent bond</term>
+<meaning id="fs-idp46161264">bond formed when electrons are shared between atoms</meaning>
+</definition>
+<definition id="fs-idp28641840">
+<term>electronegativity</term>
+<meaning id="fs-idp185988272">tendency of an atom to attract electrons in a bond to itself</meaning>
+</definition>
+<definition id="fs-idp45896864">
+<term>polar covalent bond</term>
+<meaning id="fs-idm70151840">covalent bond between atoms of different electronegativities; a covalent bond with a positive end and a negative end</meaning>
+</definition>
+<definition id="fs-idm47184144">
+<term>pure covalent bond</term>
+<meaning id="fs-idp51384608">(also, nonpolar covalent bond) covalent bond between atoms of identical electronegativities</meaning>
+</definition>
+</glossary>
+</document>
