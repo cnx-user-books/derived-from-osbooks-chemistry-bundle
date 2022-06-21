@@ -1,4 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="chemistry-2e" collection-id="col26069" style="chemistry" href="../collections/chemistry-2e.collection.xml" />
-    <book slug="chemistry-atoms-first-2e" collection-id="col26488" style="chemistry" href="../collections/chemistry-atoms-first-2e.collection.xml" />
+    <book slug="chemistry-for-chem-121-and-122-salisbury-university" collection-id="col12185" href="../collections/chemistry-for-chem-121-and-122-salisbury-university.collection.xml" />
 </container>
