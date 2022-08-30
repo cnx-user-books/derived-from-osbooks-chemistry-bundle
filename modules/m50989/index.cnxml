@@ -431,7 +431,7 @@ Remove all of the blocks from the water and add the green block to the tank of w
 <problem id="fs-idm201651312">
 <para id="fs-idm366109136">Visit this <link url="http://openstax.org/l/16phetmasvolden">PhET density simulation</link> and select Custom Blocks and then My Block.</para>
 <para id="fs-idm59188672">(a) Enter mass and volume values for the block such that the mass in kg is <emphasis effect="italics">less than</emphasis> the volume in L. What does the block do? Why? Is this always the case when mass &lt; volume?</para>
-<para id="fs-idm317502864">(b) Enter mass and volume values for the block such that the mass in kg is <emphasis effect="italics">more than</emphasis> the volume in L. What does the block do? Why? Is this always the case when mass > volume?</para>
+<para id="fs-idm317502864">(b) Enter mass and volume values for the block such that the mass in kg is <emphasis effect="italics">more than</emphasis> the volume in L. What does the block do? Why? Is this always the case when mass &gt; volume?</para>
 <para id="fs-idm307356048">(c) How would (a) and (b) be different if the liquid in the tank were ethanol instead of water?</para>
 <para id="fs-idm221235760">(d) How would (a) and (b) be different if the liquid in the tank were mercury instead of water?</para>
 </problem>

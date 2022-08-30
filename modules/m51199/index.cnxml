@@ -62,7 +62,7 @@
 
 <m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>82</m:mn></m:mrow><m:mn>206</m:mn></m:msubsup><m:mtext>Pb</m:mtext>
 
-</m:mrow></m:math></equation><para id="fs-idp202270256">Alpha decay occurs primarily in heavy nuclei (A > 200, Z > 83). Because the loss of an α particle gives a daughter nuclide with a mass number four units smaller and an atomic number two units smaller than those of the parent nuclide, the daughter nuclide has a larger n:p ratio than the parent nuclide. If the parent nuclide undergoing α decay lies below the band of stability (refer to <link target-id="CNX_Chem_21_01_BandStable" document="m51196"/>), the daughter nuclide will lie closer to the band.</para><para id="fs-idm2875904"><term id="term-00005">Beta (β) decay</term> is the emission of an electron from a nucleus. Iodine-131 is an example of a nuclide that undergoes β decay:</para>
+</m:mrow></m:math></equation><para id="fs-idp202270256">Alpha decay occurs primarily in heavy nuclei (A &gt; 200, Z &gt; 83). Because the loss of an α particle gives a daughter nuclide with a mass number four units smaller and an atomic number two units smaller than those of the parent nuclide, the daughter nuclide has a larger n:p ratio than the parent nuclide. If the parent nuclide undergoing α decay lies below the band of stability (refer to <link target-id="CNX_Chem_21_01_BandStable" document="m51196"/>), the daughter nuclide will lie closer to the band.</para><para id="fs-idm2875904"><term id="term-00005">Beta (β) decay</term> is the emission of an electron from a nucleus. Iodine-131 is an example of a nuclide that undergoes β decay:</para>
 <equation id="fs-idm19827888"><m:math><m:mrow>
 
 <m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>53</m:mn></m:mrow><m:mn>131</m:mn></m:msubsup><m:mtext>I</m:mtext>
@@ -658,7 +658,7 @@ A sample of rock contains 6.14 <m:math><m:mo>×</m:mo></m:math> 10<sup>–4</sup
 </exercise>
 <exercise id="fs-idp1698768">
 <problem id="fs-idp134647152">
-<para id="fs-idp142495840">Explain, in terms of <link target-id="CNX_Chem_21_01_BandStable" document="m51196"/>, how unstable heavy nuclides (atomic number > 83) may decompose to form nuclides of greater stability (a) if they are below the band of stability and (b) if they are above the band of stability.</para></problem>
+<para id="fs-idp142495840">Explain, in terms of <link target-id="CNX_Chem_21_01_BandStable" document="m51196"/>, how unstable heavy nuclides (atomic number &gt; 83) may decompose to form nuclides of greater stability (a) if they are below the band of stability and (b) if they are above the band of stability.</para></problem>
 </exercise>
 <exercise id="fs-idp16009760">
 <problem id="fs-idp17984272">

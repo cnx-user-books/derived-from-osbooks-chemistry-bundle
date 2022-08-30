@@ -56,7 +56,7 @@
 <tbody>
 <row valign="top">
 <entry align="center">acidic</entry>
-<entry align="center">[H<sub>3</sub>O<sup>+</sup>] > [OH<sup>−</sup>]</entry>
+<entry align="center">[H<sub>3</sub>O<sup>+</sup>] &gt; [OH<sup>−</sup>]</entry>
 <entry align="center">pH &lt; 7</entry>
 </row>
 <row valign="top">
@@ -67,7 +67,7 @@
 <row valign="top">
 <entry align="center">basic</entry>
 <entry align="center">[H<sub>3</sub>O<sup>+</sup>] &lt; [OH<sup>−</sup>]</entry>
-<entry align="center">pH > 7</entry>
+<entry align="center">pH &gt; 7</entry>
 </row>
 </tbody>
 </tgroup>
@@ -261,7 +261,7 @@ pOH = pH = 6.5156</para></solution>
 <glossary>
 <definition id="fs-idm64563696">
 <term>acidic</term>
-<meaning id="fs-idm110209904">describes a solution in which [H<sub>3</sub>O<sup>+</sup>] > [OH<sup>−</sup>]</meaning>
+<meaning id="fs-idm110209904">describes a solution in which [H<sub>3</sub>O<sup>+</sup>] &gt; [OH<sup>−</sup>]</meaning>
 </definition>
 <definition id="fs-idm111671584">
 <term>basic</term>
