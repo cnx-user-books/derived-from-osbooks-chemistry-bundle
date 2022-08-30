@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Stamatis Muratidis">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11805</md:content-id>
     <md:title>Derived copy of Chemistry</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>73e6ebf2-e50a-44f9-aac6-81137e575bfa</md:uuid>
-<md:slug>derived-copy-of-chemistry</md:slug>
-</metadata>
+    <md:slug>derived-copy-of-chemistry</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Essential Ideas</md:title>
